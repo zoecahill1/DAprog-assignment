@@ -7,3 +7,10 @@
 [5] https://realpython.com/python-random/
 [6] https://www.geeksforgeeks.org/generate-a-random-permutation-of-1-to-n/
 [7] https://seaborn.pydata.org/generated/seaborn.countplot.html
+[8] https://www.mathsisfun.com/combinatorics/combinations-permutations.html
+[9] http://mathworld.wolfram.com/UniformDistribution.html
+[10] http://mathworld.wolfram.com/StandardNormalDistribution.html
+[11] https://stats.stackexchange.com/questions/206/what-is-the-difference-between-discrete-data-and-continuous-data
+[12] https://www.investopedia.com/terms/b/binomialdistribution.asp
+[13] http://tistats.com/binomial-distribution-formula/
+[14] https://en.wikipedia.org/wiki/Bernoulli_trial
