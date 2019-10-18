@@ -14,3 +14,5 @@
 [12] https://www.investopedia.com/terms/b/binomialdistribution.asp
 [13] http://tistats.com/binomial-distribution-formula/
 [14] https://en.wikipedia.org/wiki/Bernoulli_trial
+[15] https://www.probabilitycourse.com/chapter4/4_2_2_exponential.php
+[16] https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.exponential.html#numpy.random.exponential
