@@ -46,3 +46,6 @@ This repository contains my solutions to the assignment for the module Programmi
 21. https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/chi-square/
 22. https://www.statisticssolutions.com/using-chi-square-statistic-in-research/
 23. https://www.mathsisfun.com/data/chi-square-test.html
+24. https://corporatefinanceinstitute.com/resources/knowledge/economics/pareto-distribution/
+25. https://www.statisticshowto.datasciencecentral.com/pareto-distribution/
+26. https://www.statisticshowto.datasciencecentral.com/lomax-distribution/
