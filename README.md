@@ -1,7 +1,7 @@
 ![numpy banner](/img/numpy-logo.png)
 # Programming for Data Analysis - Assignment
 
-This repository contains my solutions to the assignment for the module Programming for Data Analysis at GMIT. The assignment concerns the numpy.random package in Python. In this assignment I will use a Jupyter notebook explainging the use of the package. There are four distinct tasks to be carried out:
+This repository contains my solutions to the assignment for the module Programming for Data Analysis at GMIT. The assignment concerns the numpy.random package in Python. In this assignment I will use a Jupyter notebook explaining the use of the package. There are four distinct tasks to be carried out:
 
 1. Explain the overall purpose of the package.
 2. Explain the use of the “Simple random data” and “Permutations” functions.
@@ -49,3 +49,6 @@ This repository contains my solutions to the assignment for the module Programmi
 24. https://corporatefinanceinstitute.com/resources/knowledge/economics/pareto-distribution/
 25. https://www.statisticshowto.datasciencecentral.com/pareto-distribution/
 26. https://www.statisticshowto.datasciencecentral.com/lomax-distribution/
+27. https://www.random.org/randomness/
+28. https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
+29. https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
