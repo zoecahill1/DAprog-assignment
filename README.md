@@ -23,7 +23,7 @@ This repository contains my solutions to the assignment for the module Programmi
 3. [Matplotlib](https://matplotlib.org/) - is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 ## Refrences
-1. Python for Data Analytics 2nd Edition by Wes McKinney published by O'REILLY
+1. Python for Data Analytics 2nd Edition by Wes McKinney
 2. https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html
 3. https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 4. https://www.vitoshacademy.com/using-numpy-for-simulations/
@@ -43,3 +43,6 @@ This repository contains my solutions to the assignment for the module Programmi
 18. https://statisticsbyjim.com/basics/normal-distribution/
 19. http://staweb.sta.cathedral.org/departments/math/mhansen/public_html/23stat/handouts/normbino.html
 20. https://www.researchoptimus.com/article/normal-binomial-poisson-distribution.php
+21. https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/chi-square/
+22. https://www.statisticssolutions.com/using-chi-square-statistic-in-research/
+23. https://www.mathsisfun.com/data/chi-square-test.html
