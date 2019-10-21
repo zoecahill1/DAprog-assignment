@@ -8,6 +8,8 @@ This repository contains my solutions to the assignment for the module Programmi
 3. Explain the use and purpose of at least five “Distributions” functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
+This notebook is based on the numpy.random documentation that can be found [here](https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html)
+
 ## How to Download the Repository
 1. On GitHub, navigate to the main page of the repository.
 2. Under the repository name, click Clone or download.
@@ -15,12 +17,23 @@ This repository contains my solutions to the assignment for the module Programmi
 4. Open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL you copied in Step 2.
-7/ Press Enter. Your local clone will be created.
+7. Press Enter. Your local clone will be created.
+
+## How to View the Notebook
+- Click on the numpy-random.ipynb file in the repository and GitHub will render the notebook for you.
+- If the notebook does not render you can copy and paste the link of the numpy-random.ipynb to the nbviewer site [here](https://nbviewer.jupyter.org/)
+- If you wish to run the notebook from your local machine:
+	1. Follow the download instructions above.
+	2. Open command line.
+	3. Cd to where you downloaded the notebook.
+	4. Type jupyter notebook to open the jupyter interface.
+	5. Click on the numpy-random.ipynb file.
 
 ## Libraries Used 
-1. [numpy](https://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code, useful linear algebra, Fourier transform, and random number capabilities.
-2. [seaborn](https://seaborn.pydata.org/)Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+1. [NumPy](https://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code, useful linear algebra, Fourier transform, and random number capabilities.
+2. [Seaborn](https://seaborn.pydata.org/)Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 3. [Matplotlib](https://matplotlib.org/) - is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+4. [Pandas](https://pandas.pydata.org/) - is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
 ## Refrences
 1. Python for Data Analytics 2nd Edition by Wes McKinney
