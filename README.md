@@ -52,3 +52,6 @@ This repository contains my solutions to the assignment for the module Programmi
 27. https://www.random.org/randomness/
 28. https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
 29. https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
+30. https://asecuritysite.com/encryption/twister
+31. https://www.mersenne.org/
+32. https://stackoverflow.com/questions/22994423/difference-between-np-random-seed-and-np-random-randomstate
